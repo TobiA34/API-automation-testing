@@ -2,6 +2,9 @@
 
 This Project contains automated API tests using playwright to validate user authenticatiom, CRUD operations, and error handling
 
+## Test Doc
+https://docs.google.com/spreadsheets/d/17AW-ct1uDJP6DZucDXirI0u3wWgNjPuKkhDwxGLJtGM/edit?usp=sharing
+
 ## Features 
 
 Automated API tests using playwright 
@@ -51,4 +54,5 @@ npx playwright test
 🔹 Delete existing user (204 No Content)
 
 🔹 Delete non-existent user (404 Not Found)
+
 
